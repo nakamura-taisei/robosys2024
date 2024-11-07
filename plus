@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2022 Ryuichi Ueda 
+
 # SPDX-License-Identifier: BSD-3-Clause
+#  SPDX-FileCopyrightText: 2024 taisei nakamura 
 
 import sys
 
@@ -13,6 +14,7 @@ def tonum(s):
 
 ans = 0
 for line in sys.stdin:
-        ans += tonum(line)
+    line = line.rstrip()
+    ans += tonum(line)
 
 print(ans)
