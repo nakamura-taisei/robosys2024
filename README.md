@@ -18,13 +18,14 @@
 簡単なデータクリーニング作業に対応。
 
 ##動作
-入力テキスト：input.txt
+入力テキスト
 Hello, World! 123
-This is a test.
 
-出力テキスト：output.txt
-Hello  World      
-This is a test  
+出力テキスト
+Hello  World     
+変換が完了しました。
+
+  
 
 ##インストール方法
 1.このリポジトリをクローンします
