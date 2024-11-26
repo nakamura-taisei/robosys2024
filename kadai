@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <ctype.h>
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2024 nakamura-taisei
+# SPDX-License-Identifier: BSD-3-Clause
 
 int main() {
     FILE *inputFile = fopen("input.txt", "r");
