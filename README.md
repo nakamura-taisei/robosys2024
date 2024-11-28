@@ -18,26 +18,26 @@ kadaiというプログラムは、入力ファイル を読み込み、アル�
 簡単なデータクリーニング作業に対応。
 
 ##動作
-入力テキスト
+入力テキスト  
 Hello, World! 123
 
-出力テキスト
-Hello  World     
+出力テキスト  
+Hello  World       
 変換が完了しました。
 
 ##インストール方法
--1 .このリポジトリをクローンします
+-1.このリポジトリをクローンします  
 git clone git@github.com:nakamura-taisei/robosys2024.git
 
--2 .ディレクトリに移動
+-2.ディレクトリに移動  
 cd robosys2024
 
--3 .このプログラムはgccで取り込むため先にgccをインストールします
--sudo apt update
+-3.このプログラムはgccで取り込むため先にgccをインストールします  
+-sudo apt update  
 -sudo apt install gcc
 
 4.ソースコードをコンパイルします
 
 ##ライセンス
 - このソフトウェアパッケージは3条項BSDライセンスの下，再頒布および使用が許可されます．
-- © ２０２４　nakamura-taisei
+- © 2024 nakamura-taisei
