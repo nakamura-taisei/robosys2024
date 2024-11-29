@@ -26,15 +26,15 @@ Hello  World
 変換が完了しました。  
 
 インストール方法  
--1.このリポジトリをクローンします  
-git clone git@github.com:nakamura-taisei/robosys2024.git
+1.このリポジトリをクローンします  
+git clone git@github.com:nakamura-taisei/robosys2024.git  
 
--2.ディレクトリに移動  
-cd robosys2024
+2.ディレクトリに移動  
+cd robosys2024  
 
--3.このプログラムはgccで取り込むため先にgccをインストールします  
+3.このプログラムはgccで取り込むため先にgccをインストールします  
 -sudo apt update  
--sudo apt install gcc
+-sudo apt install gcc  
 
 4.ソースコードをコンパイルします　　
 
