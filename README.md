@@ -38,6 +38,9 @@ cd robosys2024
 
 4.ソースコードをコンパイルします　　
 
+5.使い方  
+python3 test_processor.py  
+
 ライセンス
 - このソフトウェアパッケージは3条項BSDライセンスの下，再頒布および使用が許可されます．
 - © 2024 nakamura-taisei
