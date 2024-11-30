@@ -22,8 +22,8 @@ text_processor.pyというプログラムは、入力ファイル を読み込�
 Hello, World! 123  
 
 出力テキスト  
-Hello  World       
-変換が完了しました。  
+処理結果:Hello  World       
+  
 
 インストール方法  
 1.このリポジトリをクローンします  
@@ -32,14 +32,9 @@ git clone git@github.com:nakamura-taisei/robosys2024.git
 2.ディレクトリに移動  
 cd robosys2024  
 
-3.このプログラムはgccで取り込むため先にgccをインストールします  
--sudo apt update  
--sudo apt install gcc  
-
-4.ソースコードをコンパイルします　　
-
-5.使い方  
+3.使い方  
 python3 test_processor.py  
+直接入力をした後にEnterで結果が出ます。
 
 ライセンス
 - このソフトウェアパッケージは3条項BSDライセンスの下，再頒布および使用が許可されます．
