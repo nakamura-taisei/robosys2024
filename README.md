@@ -33,7 +33,7 @@ git clone git@github.com:nakamura-taisei/robosys2024.git
 cd robosys2024  
 
 3.使い方  
-python3 test_processor.py  
+python3 text_processor.py  
 直接入力をした後にEnterで結果が出ます。
 
 ライセンス
